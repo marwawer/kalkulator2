@@ -1,12 +1,10 @@
 #include <stdio.h>
 #include <stdlib.h>
-//Wykonał Soborski Dariusz 27-XII-2017
 int main()
 {
     char dzialanie;
     double a, b, wynik;
-    puts("**************KALKULATOR****************");
-    puts("-/+*-/+*-/+*-/+*-/+*-/+*-/+*-/+*-/+*-/+*");
+    puts("KALKULATOR"); 
     printf("Wybierz dzaialanie  \n dzielenie [/]\n mnożenie[*]\n odejmowanie[-]\n dodawanie[+] \n ");
     scanf("%c", &dzialanie);
     printf("Podaj liczbe a: \n");
