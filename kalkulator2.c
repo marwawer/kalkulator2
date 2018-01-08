@@ -1,6 +1,5 @@
 #include <stdio.h>
 #include <stdlib.h>
-//Wykonał Soborski Dariusz 27-XII-2017
 int main()
 {
     char dzialanie;
